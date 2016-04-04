@@ -1,0 +1,136 @@
+html{
+  margin: 0 auto;
+  /*text-align: center;*/
+}
+#html{
+  background-image: url(../photo/article.png);
+  width: 1260px;
+  height: 1653px;
+  margin: 0 auto;
+  position: relative;
+}
+.top{
+  width: 1260px;
+  height: 340px;
+  float: left;
+}
+.nav{
+  width: 1260px;
+  height: 110px;
+  float: left;
+}
+.pumpkin{
+  width: 100px;
+  height: 100px;
+  margin: 5px 40px 5px 46px;
+  float: left;
+}
+.nav_word{
+  font-size: 35px;
+  font-family: AR HERMANN;
+  margin: 33px 40px 33px 40px;
+  color: black;
+  float: left;
+}
+.nav a:hover{
+  /*color: #d6a629;*/
+  color: black;
+  box-shadow: 5px -3px 3px rgba(0,0,0,0.5),-3px 3px 3px rgba(0,0,0,0.5);
+
+}
+.border{
+  width: 1260px;
+  border: white 3px solid;
+  border-bottom: none;
+  float: left;
+}
+article{
+  width: 1260px;
+  height: 1150px;
+  float: left;
+}
+.left{
+  height: 840px;
+  width: 917px;
+  margin: 105px 0px 0px 46px;
+  float: left;
+}
+.three{
+  width: 917px;
+  height: 184px;
+  margin-bottom: 144px;
+  float: left;
+}
+.three_photo{
+  width: 280px;
+  height: 180px;
+  float: left;
+}
+.three_title{
+  width: 607px;
+  font-size: 28px;
+  font-family: serif;
+  margin: 10px 0px 0px 30px;
+  float: left;
+}
+.three_article{
+  width:607px;
+  font-size: 20px;
+  font-family: serif;
+  line-height: 1.5em;
+  margin: 50px 0px 0px 30px;
+  float: left;
+}
+.right{
+  width: 219px;
+  height: 917px;
+  float: left;
+}
+.right_photo{
+  width: 219px;
+  height: 224px;
+  margin-top: 155px;
+  float: left;
+}
+.bottom{
+  width:1260px;
+  height: 206px;
+  float: left;
+}
+.bottom_photo{
+  width: 206px;
+  height: 206px;
+  float: right;
+}
+.bottom_left{
+  width:1000px;
+  height: 206px;
+  float: left;
+}
+footer{
+  background-image: url(../photo/footer.png);
+  width: 1260px;
+  height: 50px;
+  float: left;
+}
+.footer_word{
+  font-size: 28px;
+  font-family: AR BERKLEY;
+  margin: 7px 46px 7px;
+  color: rgb(255, 192, 0);
+  float: left;
+}
+.last{
+  margin-right: 46px;
+  float: right;
+}
+.footer_photo{
+  width: 30px;
+  height: 30px;
+  margin: 10px 15px 10px 15px;
+  float: right;
+}
+.footer_photo:hover{
+  border-radius: 100% / 33px;
+  box-shadow: 3px 3px 3px rgba(0,0,0,.5);
+}
